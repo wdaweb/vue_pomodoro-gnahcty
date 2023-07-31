@@ -38,4 +38,4 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [GitHub](https://GitHub.com/)
+- [pomodoro]([https://GitHub.com/](https://github.com/gnahcty/pomodoro)https://github.com/gnahcty/pomodoro)
